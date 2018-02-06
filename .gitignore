@@ -13,3 +13,5 @@ build
 */bin
 *.project
 *.classpath
+out/
+*/out
